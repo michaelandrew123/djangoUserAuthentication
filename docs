@@ -1,0 +1,53 @@
+
+###
+#
+# My first Django Project
+#
+# A library of reusable modules(building blocks)
+#
+# A Framework defines a structure for our applications
+#
+#
+# INSTALL DJANGO
+# open terminal and type
+#
+# -pip install django==2.1
+# CREATE DJANGO PROJECT
+# ctrl+l to clean the terminal
+# execute the command
+# -django-admin startproject pyshop .
+#
+# wsgi: web server gateway interface -> will provide standard interface between application build with django and webserver
+#
+# python3 manage.py runserver
+#
+#
+# Create new apps
+# python manage.py startapp products
+# -----------------------------------------
+#
+# View Functions
+#
+#   create routes
+#   create model
+#   create migrations
+#
+#   python manage.py makemigrations
+#   check pyshop -> settings
+#   python manage.py migrate
+#
+#
+#   Create auth
+#   python manage.py createsuperuser
+#
+#   error database and need to upgrade the pip install django --upgrade
+#  pip install django --upgrade
+#  python manage.py migrate
+#
+#   UPDATE DJANGO
+#   pip install --upgrade django==1.6.5
+#
+#
+#
+#
+# ##
